@@ -53,7 +53,7 @@ const AboutPage = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
               <div className="bg-logicaltrust-offwhite p-6 rounded-lg text-center">
                 <div className="w-24 h-24 rounded-full bg-logicaltrust-yellow mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold text-white">RK</span>
+                  <span className="text-2xl font-bold text-white">BL</span>
                 </div>
                 <h3 className="text-xl font-bold text-logicaltrust-gray mb-1">
                   Biswash Lamichhane
@@ -69,7 +69,7 @@ const AboutPage = () => {
 
               <div className="bg-logicaltrust-offwhite p-6 rounded-lg text-center">
                 <div className="w-24 h-24 rounded-full bg-logicaltrust-yellow mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold text-white">AP</span>
+                  <span className="text-2xl font-bold text-white">NT</span>
                 </div>
                 <h3 className="text-xl font-bold text-logicaltrust-gray mb-1">
                   Nischal Timalsina
