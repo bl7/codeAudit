@@ -13,7 +13,6 @@ const Partners = () => {
         </div>
 
         <div className="flex flex-wrap justify-center items-center gap-8 md:gap-12">
-          {/* Instead of client logos, we'll display industry/sector icons */}
           <div className="text-center">
             <div className="w-20 h-20 mx-auto mb-2 flex items-center justify-center rounded-full bg-logicaltrust-offwhite">
               <svg className="w-10 h-10 text-logicaltrust-yellow" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">

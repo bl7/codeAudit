@@ -1,10 +1,10 @@
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
-import Contact from '@/components/Contact';
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+import Contact from "@/components/Contact";
 
 export const metadata = {
-  title: 'About Us - CodeAudit',
-  description: 'Learn about our team of source code audit experts from Nepal.',
+  title: "About Us - CodeAudit",
+  description: "Learn about our team of source code audit experts from Nepal.",
 };
 
 const AboutPage = () => {
@@ -25,13 +25,22 @@ const AboutPage = () => {
 
             <div className="max-w-3xl mx-auto mb-16">
               <p className="text-logicaltrust-gray mb-6">
-                We believe that the digital world can be a safe place. That's why we've been actively participating in projects related to security for over 5 years. We caution against digital threats through training workshops, and for many years we've been using our blog to educate on safer software development practices.
+                We believe that the digital world can be a safe place. That's
+                why we've been actively participating in projects related to
+                security for over 5 years. We caution against digital threats
+                through training workshops, and for many years we've been using
+                our blog to educate on safer software development practices.
               </p>
               <p className="text-logicaltrust-gray mb-6">
-                Our team of security experts brings a unique blend of development and cybersecurity skills to analyze source code from multiple perspectives, finding vulnerabilities that automated tools miss.
+                Our team of security experts brings a unique blend of
+                development and cybersecurity skills to analyze source code from
+                multiple perspectives, finding vulnerabilities that automated
+                tools miss.
               </p>
               <p className="text-logicaltrust-gray">
-                Based in Kathmandu, Nepal, our team works with clients both locally and internationally to ensure their applications are secure from the ground up.
+                Based in Kathmandu, Nepal, our team works with clients both
+                locally and internationally to ensure their applications are
+                secure from the ground up.
               </p>
             </div>
 
@@ -42,15 +51,19 @@ const AboutPage = () => {
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-              {/* Example team members - replace with actual team members */}
               <div className="bg-logicaltrust-offwhite p-6 rounded-lg text-center">
                 <div className="w-24 h-24 rounded-full bg-logicaltrust-yellow mx-auto mb-4 flex items-center justify-center">
                   <span className="text-2xl font-bold text-white">RK</span>
                 </div>
-                <h3 className="text-xl font-bold text-logicaltrust-gray mb-1">Rahul Kumar</h3>
-                <p className="text-logicaltrust-yellow font-medium mb-3">Chief Security Officer</p>
+                <h3 className="text-xl font-bold text-logicaltrust-gray mb-1">
+                  Biswash Lamichhane
+                </h3>
+                <p className="text-logicaltrust-yellow font-medium mb-3">
+                  Chief Security Officer
+                </p>
                 <p className="text-logicaltrust-lightgray text-sm">
-                  Expert in application security with 8+ years of experience in secure code review and penetration testing.
+                  Expert in application security with 8+ years of experience in
+                  secure code review and penetration testing.
                 </p>
               </div>
 
@@ -58,10 +71,15 @@ const AboutPage = () => {
                 <div className="w-24 h-24 rounded-full bg-logicaltrust-yellow mx-auto mb-4 flex items-center justify-center">
                   <span className="text-2xl font-bold text-white">AP</span>
                 </div>
-                <h3 className="text-xl font-bold text-logicaltrust-gray mb-1">Anisha Pradhan</h3>
-                <p className="text-logicaltrust-yellow font-medium mb-3">Lead Code Auditor</p>
+                <h3 className="text-xl font-bold text-logicaltrust-gray mb-1">
+                  Nischal Timalsina
+                </h3>
+                <p className="text-logicaltrust-yellow font-medium mb-3">
+                  Lead Code Auditor
+                </p>
                 <p className="text-logicaltrust-lightgray text-sm">
-                  Full-stack developer turned security specialist with expertise in OWASP Top 10 vulnerabilities.
+                  Full-stack developer turned security specialist with expertise
+                  in OWASP Top 10 vulnerabilities.
                 </p>
               </div>
 
@@ -69,10 +87,15 @@ const AboutPage = () => {
                 <div className="w-24 h-24 rounded-full bg-logicaltrust-yellow mx-auto mb-4 flex items-center justify-center">
                   <span className="text-2xl font-bold text-white">SK</span>
                 </div>
-                <h3 className="text-xl font-bold text-logicaltrust-gray mb-1">Suraj Karki</h3>
-                <p className="text-logicaltrust-yellow font-medium mb-3">Security Researcher</p>
+                <h3 className="text-xl font-bold text-logicaltrust-gray mb-1">
+                  Suraj Karna
+                </h3>
+                <p className="text-logicaltrust-yellow font-medium mb-3">
+                  Security Researcher
+                </p>
                 <p className="text-logicaltrust-lightgray text-sm">
-                  Specializes in discovering zero-day vulnerabilities and developing secure coding patterns.
+                  Specializes in discovering zero-day vulnerabilities and
+                  developing secure coding patterns.
                 </p>
               </div>
             </div>
