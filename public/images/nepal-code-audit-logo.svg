@@ -1,0 +1,7 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M24 6C14.059 6 6 14.059 6 24C6 33.941 14.059 42 24 42C33.941 42 42 33.941 42 24C42 14.059 33.941 6 24 6ZM24 9C32.284 9 39 15.716 39 24C39 32.284 32.284 39 24 39C15.716 39 9 32.284 9 24C9 15.716 15.716 9 24 9Z" fill="#d3cd38" transform="scale(0.6) translate(12, 0)"/>
+  <path d="M24 12V36M17 16L31 32M17 32L31 16" stroke="#d3cd38" stroke-width="3" stroke-linecap="round" transform="scale(0.6) translate(12, 0)"/>
+  <text x="30" y="16" font-family="Arial" font-weight="bold" font-size="14" fill="#d3cd38">CODE</text>
+  <text x="30" y="30" font-family="Arial" font-weight="bold" font-size="14" fill="#d3cd38">AUDIT</text>
+  <path d="M25 36L28 28L22 32L19 25L16 32L10 28L13 36" fill="#d3cd38" transform="scale(0.4) translate(180, 50)"/>
+</svg>
